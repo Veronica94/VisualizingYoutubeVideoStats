@@ -1,2 +1,5 @@
-# Trending-Youtube-Videos
-Using Trending Youtube Stats dataset from Kaggle for visualization
+# Trending Youtube Videos
+
+Visualzing trending youtube video stats dataset (courtesy to Kaggle) through dash. (https://dash.plot.ly/)
+
+
