@@ -1,5 +1,5 @@
-# Exploring plotly-dash
+# Exploring data visualization in Python
 
-Visualzing trending youtube video stats dataset (courtesy to Kaggle) through dash. (https://dash.plot.ly/)
+Visualzing trending youtube video stats dataset (courtesy to Kaggle) through dash/bokeh.
 
 
